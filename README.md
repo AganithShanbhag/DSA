@@ -1,2 +1,2 @@
 # DSA
- Data Science and Algorithm 
+ Data Structures and Algorithm 
